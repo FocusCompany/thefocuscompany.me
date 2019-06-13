@@ -1,0 +1,8 @@
+title: Focus
+logo: /assets/logo/focus.jpg
+description: Focus is an automatic time-tracking software which helps you keep track of what you do.
+show_downloads: true
+release_url: https://github.com/FocusCompany/daemon/releases
+company_url: https://github.com/FocusCompany
+email_contact: focus@epitechfr.onmicrosoft.com
+theme: jekyll-theme-minimal
